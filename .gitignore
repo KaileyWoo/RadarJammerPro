@@ -1,0 +1,10 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略所有 .pyc 文件
+*.pyc
+
+radar/**
+jammer/**
+/jammer/
+/radar/
